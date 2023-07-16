@@ -48,7 +48,7 @@ public class Controller implements Initializable {
 		});
 	}
 
-	private void convert() {
+	private void convert() { //function to convert the temperatures
 
 		String input = userInputField.getText(); // 23.4   ==> "23.4"
 
